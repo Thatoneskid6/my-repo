@@ -1,2 +1,3 @@
-# my-repo
-hi
+# Testing Project
+
+This is just a testing project.
